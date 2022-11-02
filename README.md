@@ -1,20 +1,22 @@
 # cipher_Mangelaars_Goedele-
 Homework 7 including the cipher package
 
-Installation
+Installation:
+
 $ pip install cipher_gm3062
 
-Usage
+Usage:
+
 TODO
 
-Contributing
+Contributing:
 
 Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
-License
+License:
 
 cipher_gm3062 was created by Goedele Mangelaars. It is licensed under the terms of the MIT license.
 
-Credits
+Credits:
 
 cipher_gm3062 was created with cookiecutter and the py-pkgs-cookiecutter template.
