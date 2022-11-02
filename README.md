@@ -1,16 +1,12 @@
 # cipher_Mangelaars_Goedele-
 Homework 7 including the cipher package
 
-cipher_gm3062
-
-A cipher package
-
 Installation
-
 $ pip install cipher_gm3062
-Usage
 
+Usage
 TODO
+
 Contributing
 
 Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
